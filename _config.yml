@@ -15,9 +15,8 @@ author: Wir sind Bitcoin!
 
 navbar-links:
   Tickets: "tickets"
-  Onepager: "onepager"
-  Philosophie:  "Philosophie"
-  Das Schloss:
+  Infos: "onepager"
+    Das Schloss:
     - Burgscheidungen: "http://www.schloss-burgscheidungen.de/index2.html"
   Communities: 
     - Blocktrainer: "https://www.blocktrainer.de/"
