@@ -1,4 +1,3 @@
-# Sommer, Sonne und Satoshi
 
 ## Organisation
 
