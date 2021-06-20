@@ -39,10 +39,6 @@ treffen, auszutauschen, gemeinsam zu lernen, neue Projekte zu starten oder kenne
 das eigene Verständnis von Bitcoin gegebenenfalls auf eine neues Level zu heben.
 
 
-|   | Tier 1 | Tier 2 | Tier 3 |  Tier 4 |
-| :------ |:--- | :--- |:--- |:--- |
-| Logo auf Webseite (^) | Six | Four |Four |Four |
-| Social Media Promo des Sponsorships | Eleven | Nine |Nine |Nine |
-| Seven | Eight | Six |Nine |Nine |
-| Two | Three | One |Nine |Nine |
+## Übernachtung
+Da im Schloss selbst nur begrenzt Platz für Übernachtungen zur Verfügung steht, wird es in sommerlicher Festival-Manier die Möglichkeit geben, direkt auf dem Schlossgelände zu campen. Bringt also gerne eure Zelte, Wohnwägen oder Reisemobile mit! Camping-Muffel haben natürlich auch die Möglichkeit sich in ein Hotel, Motel oder einen Gasthof in den umliegenden Orten einzuquartieren. 
 
