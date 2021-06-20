@@ -14,8 +14,8 @@ author: Wir sind Bitcoin!
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Tickets: "tickets"
-  Infos: "onepager"
+    Tickets: "tickets"
+    Infos: "onepager"
     Das Schloss:
     - Burgscheidungen: "http://www.schloss-burgscheidungen.de/index2.html"
   Communities: 
