@@ -1,0 +1,1 @@
+## Infos für Sponsoren
