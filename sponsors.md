@@ -17,7 +17,7 @@ title: Infos für Sponsoren
 |Tickets für Veranstaltung<sup>8</sup>                |          1     |   2       |    3      |   5      |
 
 <sup>1</sup> www.bitcoin-zitadelle.de <br>
-<sup>2</sup> Via Telegram und Twitter-Kanäle Blocktrainer (14k Abos), Einundzwanzig (3k Abos), Fulmo (7,5k Abos)<br>
+<sup>2</sup> Via Telegram und Twitter-Kanäle Blocktrainer (14.000 Abos), Einundzwanzig (3.000 Abos), Fulmo (7.500 Abos)<br>
 <sup>3</sup> Live-Übertragung bei Youtubekanal „Blocktrainer“ (80.000 Abos)<br>
 <sup>4</sup> Sowohl vor Ort, als auch im Youtube-Livetream werden während der Pausen zwischen den Programmpunkten die Logos der entsprechenden Sponsoren eingeblendet<br>
 <sup>5</sup> Für die Veranstaltung wird es Tshirts geben, auf welchen die Logos der entsprechenden Sponsoren zu sehen sein werden.<br>
