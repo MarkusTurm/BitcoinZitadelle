@@ -1,4 +1,8 @@
+---
+layout: page
+title: Infos für Interessierte
 
+---
 ## Organisation
 
 Da im Zuge der Corona-Beschränkungen persönliche Kontakte in den vergangenen 18 Monaten sehr
